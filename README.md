@@ -1,5 +1,5 @@
 # Trilha JS Developer - Pokedex
-![preview](/assets/images/Captura da Web_26-4-2023_192941_billcarioca.github.io.jpeg)
+![preview](assets/images/Captura%20da%20Web_26-4-2023_192941_billcarioca.github.io.jpeg)
 
 
 # Implementações
